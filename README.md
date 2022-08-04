@@ -1,2 +1,2 @@
 # Sudoku-in-C
-Repositório usado para armazenar a minha solução para os desafios de sudoko em C !! Que Legal meu
+Repositório usado para armazenar as minhas soluções para os desafios de sudoko em C !! Que Legal hein meu
